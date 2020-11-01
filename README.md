@@ -3,7 +3,7 @@ Using a hex dump to verify the layout for a text file
     Using a hex dump to verify the layout for a text file                                                              
                                                                                                                        
     There is a problem with the ops text file which should be fixed.                                                   
-    The format should be corrected and reset.                                                                          
+    The format should be corrected and resent.                                                                          
                                                                                                                        
     State is sometimes in field 4 and field 3?                                                                         
                                                                                                                        
